@@ -1,0 +1,40 @@
+﻿Date;Error_Code;Description
+01.01.2024;E001;Overheat
+04.01.2024;E002;Motor overload
+05.01.2024;E003;Sensor Failure
+07.01.2024;E004;Power Outage
+11.01.2024;E004;Power Outage
+15.01.2024;E001;Overheat
+15.01.2024;E002;Motor overload
+24.01.2024;E001;Overheat
+25.01.2024;E001;Overheat
+29.01.2024;E003;Sensor Failure
+01.02.2024;E002;Motor overload
+01.02.2024;E001;Overheat
+04.02.2024;E001;Overheat
+09.02.2024;E002;Motor overload
+10.02.2024;E003;Sensor Failure
+16.02.2024;E001;Overheat
+16.02.2024;E002;Motor overload
+18.02.2024;E001;Overheat
+22.02.2024;E001;Overheat
+23.02.2024;E001;Overheat
+24.02.2024;E002;Motor overload
+29.02.2024;E001;Overheat
+02.03.2024;E001;Overheat
+03.03.2024;E004;Power Outage
+06.03.2024;E004;Power Outage
+07.03.2024;E001;Overheat
+07.03.2024;E004;Power Outage
+13.03.2024;E004;Power Outage
+14.03.2024;E003;Sensor Failure
+18.03.2024;E001;Overheat
+18.03.2024;E002;Motor overload
+19.03.2024;E004;Power Outage
+22.03.2024;E001;Overheat
+24.03.2024;E004;Power Outage
+26.03.2024;E003;Sensor Failure
+31.03.2024;E001;Overheat
+31.03.2024;E002;Motor overload
+;;
+;;
